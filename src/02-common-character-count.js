@@ -11,7 +11,6 @@
  */
 // let s1 = '';
 // let s2 = 'xyzbac';
-
 function getCommonCharacterCount(s1, s2) {
   let count = 0;
   let arr1 = s1.split('');
